@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-03-03 16:07+0600\n"
+"PO-Revision-Date: 2021-03-03 16:07+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/settings.php:28 inc/settings.php:64
+msgid "Catalog & Enquiry"
+msgstr ""
+
+#: inc/settings.php:70
+msgid "Hide Cart Button In Shop and Product Archive Page"
+msgstr ""
+
+#: inc/settings.php:76
+msgid "Hide Cart Button In Single Product Page"
+msgstr ""
+
+#: inc/settings.php:82
+msgid "Hide Price In Shop and Product Archive Page"
+msgstr ""
+
+#: inc/settings.php:88
+msgid "Hide Price In Single Product Page"
+msgstr ""
+
+#: inc/settings.php:94
+msgid "Show Enquiry Button"
+msgstr ""
+
+#: inc/settings.php:100
+msgid "Button Label"
+msgstr ""
+
+#: inc/settings.php:102
+msgid "Please Enter Enquiry Button Label"
+msgstr ""
+
+#: inc/settings.php:107
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: inc/settings.php:109
+msgid "Please Enter Contact Form 7 Shortcode"
+msgstr ""
+
+#: inc/settings.php:117
+msgid "Style Settings"
+msgstr ""
+
+#: inc/settings.php:123
+msgid "Button Margin"
+msgstr ""
+
+#: inc/settings.php:125
+msgid "Please Enter Button Margin"
+msgstr ""
+
+#: inc/settings.php:130
+msgid "Button Padding"
+msgstr ""
+
+#: inc/settings.php:132
+msgid "Please Enter Button Padding"
+msgstr ""
+
+#: inc/settings.php:137
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/settings.php:139
+msgid "Please Set Button Background Color"
+msgstr ""
+
+#: inc/settings.php:144
+msgid "Button Border Color"
+msgstr ""
+
+#: inc/settings.php:146
+msgid "Please Set Button Border Color"
+msgstr ""
+
+#: inc/settings.php:151
+msgid "Button Color"
+msgstr ""
+
+#: inc/settings.php:153
+msgid "Please Set Button Color"
+msgstr ""
+
+#: inc/settings.php:158
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/settings.php:160
+msgid "Write Your Custom CSS"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:394
+#: lib/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
